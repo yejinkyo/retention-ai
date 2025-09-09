@@ -1,2 +1,2 @@
-# retention-ai
+# 2025 캡스톤 디자인 프로젝트: retention ai
 고객 이탈을 예측하고 방지하는 추천 시스템
